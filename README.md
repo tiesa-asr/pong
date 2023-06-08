@@ -10,4 +10,4 @@ Use the up and down arrows keys to move your racket and hit the ball.
 
 ## Demo
 
-[Click here to play the game](git push -u origin main).
+[Click here to play the game](https://editor.p5js.org/tiesa-asr/full/DUaCGeGE0).
